@@ -7,10 +7,10 @@ products:
 - power-bi
 ---
 
-![Customer Revenue Growth Factor Solution Accelerator](./reference/images/CustomerRevenueGrowthFactor.png)
+![Microsoft Solutions Early Access Engineering](./reference/images/CustomerRevenueGrowthFactor.png)
 
-# Customer Revenue Growth Factor Solution Accelerator
-This accelerator was built to provide developers with all of the resources needed to build a solution to identify the top factors for revenue growth from an e-commerce platform using Azure Databricks.
+# Azure Databricks Solution Accelerator for Financial Analytics of Customer Revenue Growth Factor
+This solution accelerator was built to provide developers with all of the resources needed to build a solution to identify the top factors for revenue growth from an e-commerce platform using Azure Databricks.
 
 ## Getting Started
 * **Don't have an existing Azure Databricks Workspace:** Azure Databricks is a first-party Azure solution. You can easily deploy a new Azure Databricks workspace using the Azure Portal by following these [instructions](https://learn.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal#create-an-azure-databricks-workspace). Once the workspace is deployed you can continue with the [Setup Guide](./setup/setup_guide.md)
